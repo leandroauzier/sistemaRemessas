@@ -1,0 +1,5 @@
+# Caminho da planilha fichas.xlsx
+CAMINHO_FICHAS=C:\Users\leandro.sobrinho\Desktop\sistemaRemessas\modelos\fichas.xlsx
+
+# Caminho da pasta de remessas emitidas
+PASTA_RAIZ=C:\Users\leandro.sobrinho\Desktop\sistemaRemessas\remessas2025\

@@ -1,0 +1,50 @@
+🧭 COMO USAR O SISTEMA DE FICHAS E REMESSAS
+------------------------------------------
+
+1️⃣ PREENCHER A FICHA
+------------------------------------------
+- Abra o arquivo: fichaFormulario.docm
+- Preencha todos os campos com atenção.
+- Clique no botão ao fim da página “Enviar dados a planilha Fichas”.
+
+✔ O sistema automaticamente:
+   → Salva os dados na planilha fichas.xlsx
+   → Cria uma cópia em PDF da ficha (na pasta “fichas”)
+
+------------------------------------------
+
+2️⃣ GERAR A REMESSA
+------------------------------------------
+- Abra o modelo de remessa Excel (MODELO DE REMESSA...).
+- Clique no botão ao final da página “Gerar Remessa até hoje”.
+
+✔ O sistema automaticamente:
+   → Lê os dados salvos em fichas.xlsx
+   → Gera uma nova remessa com os registros pendentes
+   → Cria uma pasta com a data e hora (ex: 31_10_2025-09h30m)
+   → Salva o arquivo da remessa dentro dessa pasta
+
+------------------------------------------
+
+3️⃣ ONDE FICAM OS ARQUIVOS
+------------------------------------------
+📂 modelos → contém os arquivos originais (NÃO MEXER)
+📂 fichas → guarda as fichas em PDF
+📂 remessas2025 → onde ficam as remessas geradas
+
+------------------------------------------
+
+⚙️ DICA IMPORTANTE
+------------------------------------------
+Se o sistema não encontrar os arquivos,
+verifique o arquivo “config.txt” e confira se os
+caminhos estão corretos (pode ser editado no Bloco de Notas).
+
+🚫 NÃO APAGUE os arquivos das pastas “modelos” e “fichas”.
+
+------------------------------------------
+✅ PRONTO! É só seguir essa ordem:
+1. Preencha a ficha
+2. Clique em “Salvar”
+3. Abra a remessa
+4. Clique em “Gerar Remessa do Dia”
