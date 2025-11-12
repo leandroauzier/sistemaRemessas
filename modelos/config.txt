@@ -1,2 +1,3 @@
-CAMINHO_FICHAS=C:\sistemaRemessas\modelos\fichas.xlsx
-PASTA_RAIZ=C:\sistemaRemessas\remessas2025\
+CAMINHO_FICHAS=C:\sistemaRemessas\modelos\fichas.xlsx
+PASTA_RAIZ=C:\sistemaRemessas\remessas2025\
+
